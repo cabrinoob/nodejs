@@ -3,7 +3,7 @@ Base your Dockerfile on this image to deploy your nodejs 4.x application in a co
 
 Example :
 
-    FROM fmeriot/docker-nodejs-6.x
+    FROM fmeriot/docker-nodejs-4.x
     
     WORKDIR /nodeapp
     ADD package.json /nodeapp/
