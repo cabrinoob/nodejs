@@ -20,4 +20,5 @@ Example :
    If you want to switch to the 6.x version you can use the tag v6.x :
    
        FROM fmeriot/nodejs:v6.x
+	   
    
